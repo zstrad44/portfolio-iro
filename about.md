@@ -2,11 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/stradling_after.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Hello, I'm Zach. I am very easy going and easy to get along with. I am also very determined and goal oriented. 
+I have been doing web and graphic design for over 5 years, and have recently began advancing my skills in web development 
+software programming. I love what I do and enjoy each and every day that I am able to create something. 
